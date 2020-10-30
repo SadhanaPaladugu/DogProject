@@ -16,8 +16,12 @@ neither a dog or a human,it just says “Its not a human or dog”
 Below are screenshots of the final application 
 
 Application Dashbboard
-![Application Dashboard](images/Dashboard.png)
+![Application Dashboard](images/DashboardScreen.png)
+
+Upload Screen
 ![Upload screen](images/UploadScreen.png)
+
+Final Outout Screen
 ![Final output screen](images/Outputscreen.png)
 
 
