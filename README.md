@@ -12,7 +12,9 @@ When the user uploads his/her photo, through a web/mobile app,
 the model best predicts of what dog-breed they look like.If the
 supplie image is of a dog itself, it predicts its breed.If the image
 neither a dog or a human,it just says “Its not a human or dog”
+
 Project link in production - http://ec2-54-237-0-234.compute-1.amazonaws.com/
+
 Below are screenshots of the final application 
 
 Application Dashbboard
