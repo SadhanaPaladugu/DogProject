@@ -23,7 +23,7 @@ Application Dashbboard
 Upload Screen
 ![Upload screen](images/UploadScreen.png)
 
-Final Outout Screen
+Final Output Screen
 ![Final output screen](images/Outputscreen.png)
 
 
